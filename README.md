@@ -1,5 +1,6 @@
 # Code with me: Image Segmentation
 
+This repo contains a concrete examples to introduce you the process of image segmentation with the use of convolutional neural networks (CNNs). 
 
 ## The data
 
